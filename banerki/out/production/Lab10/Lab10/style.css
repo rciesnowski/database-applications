@@ -1,0 +1,103 @@
+
+
+#msep1, #msep2, #msep3, #msep4, #msep5
+{
+
+-fx-padding: 0,2,0,2;
+
+}
+
+#blok4{
+    -fx-background-image: url("t2.gif");
+    -fx-min-height: 68;
+}
+
+#blok13, #blok9{
+    -fx-translate-x: 10;
+    -fx-background-image: url("mng.jpg");
+    -fx-min-height: 30;
+    -fx-max-width: 244;
+    -fx-alignment: center;
+}
+
+#blok11{
+       -fx-background-image: url("m2.gif");
+
+}
+
+#blok14{
+       -fx-background-image: url("m2.gif");
+       -fx-min-height: 50;
+}
+
+#blok16{
+       -fx-background-image: url("s2.gif");
+       -fx-min-height: 280;
+       -fx-font-size: 11px;
+}
+
+#blok5{
+    -fx-padding: 5,5,5,5;
+}
+
+#strona_glowna, #oferta, #o_nas, #sklep_online, #cennik, #kontakt
+{
+    -fx-font-family: "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-padding: 15,0,15,0;
+}
+
+#strona_glowna_path, #oferta_path, #cennik_path{
+    -fx-text-fill: gray;
+    -fx-underline: true;
+}
+
+#dalej_path, #dalej_path2{
+    -fx-text-fill: gray;
+}
+
+#all{
+    -fx-padding: 5,0,0,0;
+}
+
+#valid{
+    -fx-text-fill: blue;
+    -fx-padding: 5,0,0,0;
+}
+
+#strona_glowna2, #oferta2, #o_nas2, #sklep_online2, #cennik2, #kontakt2{
+    -fx-text-fill: SteelBlue;
+    -fx-padding: 3,0,0,0;
+}
+
+#nawigacja, #szablon{
+    -fx-font-family: "Arial";
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+
+}
+
+#naglowekbox, #zdjeciabox{
+    -fx-background-image: url("ngbg.jpg");
+    -fx-min-height: 35;
+    -fx-max-width: 652;
+}
+
+#naglowek, #zdjecia{
+    -fx-font-family: "Arial";
+    -fx-text-fill: orange;
+    -fx-font-size: 16 px;
+}
+
+#foty{
+    -fx-padding: 5,5,5,5;
+}
+
+#img1, #img2, #img3, #img4{
+    -fx-padding: 5,5,5,5;
+}
+
+#ar1, #ar2, #ar3, #ar4, #ar5, #ar6{
+    -fx-padding: 3,0,0,0;
+}
