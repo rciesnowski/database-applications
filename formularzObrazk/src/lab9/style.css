@@ -1,0 +1,46 @@
+#wprowadz{
+    -fx-background-image: url("p1.png");
+}
+#pokaz{
+    -fx-background-image: url("p2.png");
+}
+
+#blok1,#blok3{
+    -fx-background-color:red;
+    /*-fx-border-color: black;*/
+    /*-fx-border-width: 1; /*grubość 1px*/
+    /*-fx-border-style: solid;*/
+    /*-fx-border-radius: 5;/*zaokr.rogi*/
+    -fx-padding:10 5 10 10;/*top,right,bottom,left */
+}
+#blok2{
+    -fx-background-color:green;
+    -fx-padding:10 5 10 10;/*top,right,bottom,left */
+    -fx-pref-width:400;
+    -fx-pref-height:100;
+}
+#blok3{
+    -fx-background-color:blue;
+}
+#blok4,#blok5{
+    -fx-border-color: black;
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+}
+
+
+/*--------------------p14-----*/
+#okno {
+    -fx-background-image: url("tlo.png");
+}
+#minimum1,#zamknij1{
+    /*linear-gradient(#jasny,#ciemny) */
+    -fx-background-color:linear-gradient(#659bb7,#015580);
+    -fx-text-fill: white;
+}
+#minimum2{
+    -fx-background-image: url("min.png");
+}
+#zamknij2{
+    -fx-background-image: url("exit.png");
+}
