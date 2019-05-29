@@ -1,0 +1,97 @@
+#nazwa, #nazwa2, #nazwa3{
+    -fx-font-family: "Garamond";
+    -fx-text-fill: #c02fae;
+    -fx-font-size: 30px;
+}
+
+#dzieki{
+    -fx-font-size: 15px;
+}
+
+#kat1, #kat2, #kat3{
+    -fx-background-color: #c02fae;
+}
+
+#nap_ilosc_zamawiana, #nap2_ilosc_zamawiana, #nap3_ilosc_zamawiana,
+#ciast_ilosc_zamawiana, #ciast2_ilosc_zamawiana, #ciast3_ilosc_zamawiana{
+    -fx-padding: 10,10,10,10;
+}
+
+#oproznij, #faktura, #glowna, #glowna2, #wyslij, #but, #sfinalizuj, #dodaj2{
+    -fx-background-color: #c02fae;
+    -fx-text-fill: white;
+}
+
+
+#kategoria1, #kategoria2, #kategoria3 {
+    -fx-background-color: #c02fae;
+    -fx-border-color: white;
+    -fx-border-style: solid;
+    -fx-border-width: 10px;
+    -fx-min-height: 100;
+    -fx-min-width: 176;
+    -fx-padding: 20,0,0,0;
+}
+
+#napoje, #ciastka, #cukierki{
+    -fx-background-color: #c02fae;
+    -fx-font-family: "Garamond";
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+}
+
+#okno, #okno2, #okno3{
+    -fx-background-color: white;
+}
+
+#koperta{
+    -fx-background-image: url("letter.png");
+    -fx-min-height: 50;
+    -fx-min-width: 50;
+    -fx-translate-x:5;
+}
+
+#logo{
+    -fx-background-image: url("zuckerman&Co.png");
+    -fx-min-height: 75;
+    -fx-min-width: 100;
+    -fx-alignment: center-left;
+}
+
+#wiadomosc, #wys, #zakupy, #ilosc_produktow, #sprzedawca_nabywca{
+    -fx-padding: 20,0,0,0;
+}
+
+#nabywca{
+    -fx-padding: 20,20,20,20;
+}
+
+#sprzedawca{
+    -fx-padding: 20,20,20,20;
+}
+
+#sprze, #nab, #produkty, #iiprod, #icena{
+    -fx-font-size: 20px;
+}
+
+#koszbox{
+    -fx-translate-x: 0;
+}
+
+#logo_nazwa{
+    -fx-translate-x: -30;
+}
+
+#cena_kosz{
+    -fx-translate-x: 10;
+}
+
+#podaj_maila{
+    -fx-translate-x:20;
+    -fx-padding: 10px;
+}
+
+#napisz, #napisz2{
+    -fx-translate-x:5;
+}
+
